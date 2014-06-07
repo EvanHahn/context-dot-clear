@@ -11,6 +11,7 @@ var context = canvas.getContext('2d')
 
 // ...draw some stuff...
 context.clear()
+// now it's all gone!
 ```
 
 It's a very short library. Enjoy!
