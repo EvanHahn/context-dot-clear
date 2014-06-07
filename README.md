@@ -14,4 +14,6 @@ context.clear()
 // now it's all gone!
 ```
 
+If canvas isn't supported, this silently fails.
+
 It's a very short library. Enjoy!
