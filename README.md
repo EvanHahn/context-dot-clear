@@ -1,7 +1,7 @@
 context.clear
 =============
 
-Monkey-patches the 2D canvas context (CanvasRenderingContext2D) to include a `clear` method that clears the screen.
+Monkey-patches the 2D canvas context ([CanvasRenderingContext2D](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D)) to include a `clear` method that clears the screen.
 
 Usage (after including the library):
 
